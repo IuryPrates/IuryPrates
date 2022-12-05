@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as Twilio developer at Software Company Athan.
 - 🌱 I’m currently learning JavaScript, NodeJs, React, React Native, Twilio.
-- 📫 How to reach me: prates700@gmail.com or iprates@athan.cc
+- 📫 How to reach me: prates700@gmail.com or iprates@athan.cc.
 <div align="center">
   <a href="https://github.com/iuryprates">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuryprates&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
